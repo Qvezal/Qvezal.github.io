@@ -1,2 +1,0 @@
-# Qvezal.github.io
-Хост
