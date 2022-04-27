@@ -19,6 +19,7 @@ header {
 	display: flex;
 	margin-left: 15%;
 	color: white;
+	text-decoration: none;
 }
 #logo_svg{
 	width: 63px;
@@ -213,7 +214,7 @@ section .YI{
 	display: flex;
 	justify-content: space-around;
 	background-color: #191919;
-	color: #2c2c2c;
+	color: #4b4b4b;
 	padding: 5%;
 }
 .footer_li{
@@ -302,6 +303,7 @@ section .YI{
 	height: 340px;
 	margin: 0;
 	padding: 0px;
+	text-decoration: none;
 }
 .article-preview__photo {
 	width: 370px;
@@ -577,15 +579,18 @@ section .YI{
 	width: 370px;
 	height: 350px;
 	margin: 0px;
+	text-decoration: none;
 }
 .elem_calendar{
 	height: 220px;
 }
 .elem_text {
 	height: 130px;
+	color: #252525;
 }
 .elem_text h2{
 	margin: 0px;
+	color: #252525;
 }
 .calendar{
 	padding-left: 5%;
