@@ -1130,24 +1130,11 @@ section .YI {
     border: 1px solid black;
 }
 
-@media (min-width: 1400px) {
-    .burger {
-        display: none;
-    }
-    .header_ul {
-        display: flex;
-    }
+.burger {
+    margin-right: 30px;
+    display: block;
 }
 
-@media (max-width: 1400px) {
-    .burger {
-        display: block;
-        margin-right: 30px;
-    }
-    .header_ul {
-        display: none;
-    }
-    #Logo {
-        flex: 1;
-    }
+#Logo {
+    flex: 1;
 }
